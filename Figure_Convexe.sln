@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figure_Convexe", "Figure_Convexe\Figure_Convexe.csproj", "{40EAA904-7C8B-4D3F-BDE7-6D7DA859F582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40EAA904-7C8B-4D3F-BDE7-6D7DA859F582}.Debug|x86.ActiveCfg = Debug|x86
+		{40EAA904-7C8B-4D3F-BDE7-6D7DA859F582}.Debug|x86.Build.0 = Debug|x86
+		{40EAA904-7C8B-4D3F-BDE7-6D7DA859F582}.Release|x86.ActiveCfg = Release|x86
+		{40EAA904-7C8B-4D3F-BDE7-6D7DA859F582}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
